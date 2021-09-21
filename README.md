@@ -20,6 +20,7 @@
 
 
 ## Getting Started 📋
+- Template forked from [Resume Styled Portfolio](https://github.com/dazzlerkumar/dazzlerkumar.github.io)
 - This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 - The website is completely built on `react-js` library of `javascript` using `NextJs` Framework for server-side rendering
